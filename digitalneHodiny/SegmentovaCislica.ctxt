@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=SegmentovaCislica
+comment1.params=x\ y
+comment1.target=SegmentovaCislica(int,\ int)
+comment2.params=n
+comment2.target=void\ zobraz(int)
+comment3.params=
+comment3.target=void\ skry()
+numComments=4

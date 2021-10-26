@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Segment
+comment1.params=sirka\ vyska\ x\ y
+comment1.target=Segment(int,\ int,\ int,\ int)
+comment2.params=
+comment2.target=void\ zobraz()
+comment3.params=
+comment3.target=void\ skry()
+numComments=4
